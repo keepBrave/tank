@@ -12,6 +12,7 @@ public class SimpleTank  extends Frame {
 
         System.out.println("git master");
         System.out.println("release test");
+        System.out.println("release test again");
 
     }
 }
