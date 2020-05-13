@@ -12,6 +12,7 @@ public class SimpleTank  extends Frame {
 
         System.out.println("git test");
         System.out.println("git ssh test");
+        System.out.println("git master");
 
     }
 }
