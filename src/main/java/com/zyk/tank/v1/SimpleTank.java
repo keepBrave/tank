@@ -10,7 +10,7 @@ public class SimpleTank  extends Frame {
         System.out.println("paint");
         g.fillRect(200,200,50,50);
 
-
+        System.out.println("git test");
 
     }
 }
